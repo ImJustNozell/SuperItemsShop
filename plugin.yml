@@ -1,8 +1,8 @@
 name: SuperItemsShop
 main: Biswajit\SuperItems\SuperItemsShop
-version: 2.0.0
+version: 2.0.1
 api: 5.0.0
-author: Biswajit
+authors: ["Biswajit", "Nozell"]
 softdepend: ["BedrockEconomy", "EconomyAPI"]
 
 commands:
